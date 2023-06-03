@@ -1,6 +1,6 @@
 Цей репозиторій призначений для зберігання файлів проєктів у Портфоліо комп'ютерного лінгвіста Вероніки Бабич.
 
-Саме портфоліо можна переглянути [тут]().
+Саме портфоліо можна переглянути [тут](https://docs.google.com/document/d/1z2D38JppABq6J3Mi0f6AsWiu_zqUxwK8/edit?usp=sharing&ouid=112259631667966727434&rtpof=true&sd=true).
 
 У репозиторії відсутній проєкт №1, він доступний [тут](https://github.com/your-lithium/task_generator/tree/2067b7b9485113d563d61d7a5d3a28b8d3dd9b6a).
 
